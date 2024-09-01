@@ -1,4 +1,4 @@
-https://williamsmale.com/blog/tech/docker_on_headless_pi/
+Building a DIY CCTV System with Raspberry Pi and ESP32 Camera Modules
 
 From https://medium.com/@ebinx7/building-a-diy-cctv-system-with-raspberry-pi-and-esp32-camera-modules-7dbba7e13129
 
